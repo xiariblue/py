@@ -1,2 +1,2 @@
-print("666")
 print("do you understand")
+print("do you know?")
